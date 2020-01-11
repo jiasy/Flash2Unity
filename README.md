@@ -5,11 +5,11 @@ Flash动画以及帧信息输出成json，并在Unity端解析json显示Flash编
 	2.打开 Fla 文件，以
 		1).Properties -> Publish -> Script -> 扳手按钮(点击弹出界面) -> SWC and ANE files or folders
 			确保，Assets/Flash2Unity/FLAs/analyse.swc，Assets/Flash2Unity/FLAs/serviceApp.swc
-		2).Properties -> Publish -> Class 
-			确保其继承自 SwfAnalyseMain
-		3).支持Sprite和MovieClip，由于命名冲突的原因，在Flash内，Sprite对应于Pic,MovieClip对应于Dis
-			3-1.Sprite:
-				必须是继承于 Pic 的 MovieClip
+        2).Properties -> Publish -> Class 
+            确保其继承自 SwfAnalyseMain
+        3).支持Sprite和MovieClip，由于命名冲突的原因，在Flash内，Sprite对应于Pic,MovieClip对应于Dis
+            3-1.Sprite:
+                必须是继承于 Pic 的 MovieClip
 					其内的第一帧用来输出图片，第二帧可以用来保留制作过程中的矢量图
 					第一帧转位图之后，需要居中对齐，否则报错。
 				命名规则 altas_picName [大图名_图片名]
@@ -70,7 +70,8 @@ Flash动画以及帧信息输出成json，并在Unity端解析json显示Flash编
 			5.Scripts/Base/Editor   : 编辑器支持
 			6.Scripts/Base/flash    : AS3中关于Sprite和MovieClip在Unity侧的简单实现
 			7.Scripts/Sample        : 支持 Flash2Unity.fla 所需要的代码
-		
+视频演示链接
+https://www.bilibili.com/video/av73034285?p=1
 		
 	
 		
