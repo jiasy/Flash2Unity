@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{CADD4CFB-D63A-E524-02A5-B5F0676A5138}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Flash2Unity/Scripts/Base/Editor/Flash2UnityCustomEditor.cs">
+    <Files>
+      <File FileName="Assets/Flash2Unity/Scripts/Base/flash/display/MovieClipContainer.cs" Line="10" Column="37" />
+      <File FileName="Assets/Flash2Unity/Scripts/Base/Editor/Flash2UnityCustomEditor.cs" Line="13" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

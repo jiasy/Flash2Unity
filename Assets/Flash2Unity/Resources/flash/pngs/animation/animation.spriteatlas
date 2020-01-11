@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: animation
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 0
+      compressionQuality: 0
+      maxTextureSize: 0
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 262634437da7e4f4aaa01eff082b7346, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: aeee29424f15f453c96af79f45880bdf, type: 3}
+  - {fileID: 21300000, guid: ffdcdff4ee5904f7898d4866caf08898, type: 3}
+  - {fileID: 21300000, guid: 600d05c9ffe1f44f693c377cf9c42327, type: 3}
+  - {fileID: 21300000, guid: 015f6e7af63cd45908267dfa4392b3fe, type: 3}
+  - {fileID: 21300000, guid: d05b552b9e13849aab81d75ea1d1d932, type: 3}
+  - {fileID: 21300000, guid: f28ee8eeca1464b4fa140333ae326de7, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - animation_HeadPic3
+  - animation_BodyPic
+  - animation_HeadPic
+  - animation_HeadPic2
+  - animation_LegRightDownPic
+  - animation_LegRightUpPic
+  m_Tag: animation
+  m_IsVariant: 0

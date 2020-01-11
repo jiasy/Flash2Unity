@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: comment
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 0
+      compressionQuality: 0
+      maxTextureSize: 0
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 8d18c9a63983a43bcba405658f4cf29c, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 5c3826507d08f4dbd809248a7f255e1c, type: 3}
+  - {fileID: 21300000, guid: a8207fc0ba8bf403787a34f1f26d11b1, type: 3}
+  - {fileID: 21300000, guid: 305e1741a2b914d589a5b4517553457b, type: 3}
+  - {fileID: 21300000, guid: 0e6109a18f4ee43e7a8c8ca01d311826, type: 3}
+  - {fileID: 21300000, guid: f81dc0c11d33b4b008e6974c02241c52, type: 3}
+  - {fileID: 21300000, guid: a149ad52760a3431181415e3b81711c6, type: 3}
+  - {fileID: 21300000, guid: eec17a4410c7a410995b0869c3218319, type: 3}
+  - {fileID: 21300000, guid: e3a4f8759cdae47e199526457f6a2c17, type: 3}
+  - {fileID: 21300000, guid: 99d8c7a67ef204705a32360ad5c330be, type: 3}
+  - {fileID: 21300000, guid: c9a97b084ffcf447ab70b48b41d88634, type: 3}
+  - {fileID: 21300000, guid: a4f2ae08d8e0f44bcb45a430a26f6107, type: 3}
+  - {fileID: 21300000, guid: a51c6938a0fb44744989592ae54a7f59, type: 3}
+  - {fileID: 21300000, guid: 1ccd006850143492db901aedcf840fa5, type: 3}
+  - {fileID: 21300000, guid: 814988f8290a946ae917cfd049ba430d, type: 3}
+  - {fileID: 21300000, guid: dbd22079725dc4be4a0529b6ed75e8bd, type: 3}
+  - {fileID: 21300000, guid: 52c7e30a9283244df90745a99de850ff, type: 3}
+  - {fileID: 21300000, guid: 3453321c7f6684ff48d54ae16f4b0aee, type: 3}
+  - {fileID: 21300000, guid: 5c1410bc663bf486cb34ee6339bc1f06, type: 3}
+  - {fileID: 21300000, guid: e0e641cd5e25f4fa39417bb3b3876192, type: 3}
+  - {fileID: 21300000, guid: 61480ecdc3796430f95b4e5da9392f78, type: 3}
+  - {fileID: 21300000, guid: a15c724ea9ed6467cb76aea886770206, type: 3}
+  - {fileID: 21300000, guid: 34bd2a4ed957f492f8316bf97ca14a5f, type: 3}
+  - {fileID: 21300000, guid: 02fd0fde0b47d436db737ff0aaf29d18, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - comment_symbolPeopertiesPic
+  - comment_Step1
+  - comment_supportMovieClipAlpha
+  - comment_converToBitmapPic
+  - comment_frameLabel
+  - comment_tipSavePicOriginal
+  - comment_Step4
+  - comment_pathNested
+  - comment_childIndex
+  - comment_changeSkin
+  - comment_DIY
+  - comment_currentFrame
+  - comment_alignPic
+  - comment_continue
+  - comment_1024
+  - comment_PropertyTestCommentPic
+  - comment_howToDrawAPic
+  - comment_MainCommentPic
+  - comment_Step3
+  - comment_DisHowTo
+  - comment_Step2
+  - comment_control
+  - comment_picName
+  m_Tag: comment
+  m_IsVariant: 0

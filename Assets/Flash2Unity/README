@@ -1,0 +1,16 @@
+Flash2Unity
+A way to using Flash 2D animations and frame controls in Unity.
+Support drawing in Flash IDE and export pngs to Unity.
+Automatic packing sprite to SpriteAltas.
+Support nextFrame,prevFrame,gotoAndStop,gotoAndPlay,stop.
+Support move,scale,rotation,alpha for Sprite and MovieClip.
+Simple source code,easy to modify.
+Support Unity class reflect by class name.
+
+
+Requires Unity 2017 or above, which supprot SpriteAltas.
+Sample fla file and empty fla file in folder.
+
+ 
+Using Flash/Animate IDE to edit 2D animations.
+Fully tested on OSx.
